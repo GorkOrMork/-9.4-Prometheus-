@@ -19,5 +19,6 @@
 
 Подключите Node Exporter к серверу Prometheus.
 
-![image](https://user-images.githubusercontent.com/109193124/227197917-2df2e42d-2473-4ef0-a8f8-7b0fa298fb61.png)
+![image](https://user-images.githubusercontent.com/109193124/227364576-ce872026-475a-4b6d-a85f-b45a7c676fff.png)
 
+![image](https://user-images.githubusercontent.com/109193124/227364652-1f770ff6-4ee2-47a7-b08a-ce2f763f3c74.png)
