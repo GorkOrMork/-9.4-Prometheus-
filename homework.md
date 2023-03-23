@@ -5,7 +5,7 @@
 
 Установите Prometheus.
 
-![image](https://user-images.githubusercontent.com/109193124/227197708-cd840c43-946a-4224-8d97-e3c9627b36be.png)
+![image](https://user-images.githubusercontent.com/109193124/227270032-ecd3ea15-042d-4526-ac12-df8c942b0857.png)
 
 
 ### Задание 2
