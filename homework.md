@@ -12,8 +12,7 @@
 
 Установите Node Exporter.
 
-![image](https://user-images.githubusercontent.com/109193124/227197838-9443d9c4-3d8f-4545-b325-6dd9e49b48fa.png)
-
+![image](https://user-images.githubusercontent.com/109193124/227364777-0f9546bf-5a9c-4d9f-b070-76a409109b80.png)
 
 ### Задание 3
 
